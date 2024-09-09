@@ -1,5 +1,8 @@
 package com.example.s3.notification;
 
+import com.example.s3.user.User;
+import com.example.s3.user.UserDto;
+import com.example.s3.user.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 

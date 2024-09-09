@@ -1,4 +1,4 @@
-package com.example.s3.notification;
+package com.example.s3.user;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 
